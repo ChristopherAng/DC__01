@@ -670,11 +670,11 @@ section {
 }
 
 
-.myform .php-email-form input, .myform .php-email-form textarea {
+.myform .php-email-form textarea {
   border-radius: 5px;
   box-shadow: none;
   font-size: 14px;
-  margin: 27px;
+  position: block;
 }
 
 .myform .php-email-form input::focus, .myform .php-email-form textarea::focus {
