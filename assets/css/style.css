@@ -674,6 +674,7 @@ section {
 .field-wrap input {
   width: 100% !important;
   flex-grow: 1 !important;
+ width: 200px;
 }
 
 .myform .php-email-form {
