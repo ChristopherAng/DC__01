@@ -665,6 +665,16 @@ section {
 	margin-bottom: 200px;
 }
 
+.field-wrap {
+  width: 100%;
+  margin-bottom: 10px;
+  display: flex;
+}
+
+.field-wrap input {
+  width: 100%;
+  flex-grow: 1;
+}
 
 .myform .php-email-form {
   box-shadow: 0 0 30px rgba(214, 215, 216, 0.6);
