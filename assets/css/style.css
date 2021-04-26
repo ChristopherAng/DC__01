@@ -666,14 +666,14 @@ section {
 }
 
 .field-wrap {
-  width: 100%;
-  margin-bottom: 10px;
-  display: flex;
+  width: 100% !important;
+  margin-bottom: 10px !important;
+  display: flex !important;
 }
 
 .field-wrap input {
-  width: 100%;
-  flex-grow: 1;
+  width: 100% !important;
+  flex-grow: 1 !important;
 }
 
 .myform .php-email-form {
